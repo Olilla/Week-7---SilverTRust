@@ -28,7 +28,6 @@ MVP/
 ├── silver_trust_mvp.ipynb    # Jupyter notebook version
 ├── install_dependencies.py   # Run once to install packages
 ├── .env                      # Your API keys (never commit this)
-├── .env.example              # Key template
 └── README.md                 # This file
 ```
 
