@@ -21,7 +21,7 @@
 | 5b | Data map | [04-compliance/data-map.md](04-compliance/data-map.md) |
 | 6a | LangSmith monitoring setup | [05-langsmith-monitoring/monitoring-setup.md](05-langsmith-monitoring/monitoring-setup.md) |
 | 6b | Client explainer | [05-langsmith-monitoring/client-explainer.md](05-langsmith-monitoring/client-explainer.md) |
-| 7a | Tuesday pitch deck (PDF) | [06-peer-review/AI_Proposal_Presentation_v5.pdf](06-peer-review/AI_Proposal_Presentation_v5.pdf) |
+| 7a | Tuesday pitch deck (PDF) | [06-peer-review/AI_Proposal_Presentation_v5.pdf](06-peer-review/AI_Proposal_Presentation_v3.pdf) |
 | 7b | Tuesday pitch outline | [06-peer-review/tuesday-pitch-outline.md](06-peer-review/tuesday-pitch-outline.md) |
 | 7c | Peer approval record | [06-peer-review/peer-approval-record.md](06-peer-review/peer-approval-record.md) |
 | 8a | Revised solution | [07-revised-proposal/revised-solution.md](07-revised-proposal/revised-solution.md) |
