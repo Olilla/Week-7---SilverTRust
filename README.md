@@ -1,6 +1,7 @@
 # SilverTrust Project 4 — AI Transformation for Streetwear E-Commerce
 
-**Team:** SilverTrust
+**Company:** SilverTrust
+**Consultants:** Dilia and Olalla
 **Target industry:** Streetwear / Fashion E-Commerce
 **Client:** Streetwear e-commerce retailer, Germany & Europe
 **Date:** June 2026
