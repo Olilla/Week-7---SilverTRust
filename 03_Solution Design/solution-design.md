@@ -1,6 +1,6 @@
 # Solution Design
 
-**Client:** Streetwear E-Commerce (Germany & Europe)
+**Client:** Silver Tour Streetwear E-Commerce (Germany & Europe)
 **Prepared for:** Carlos (Marketing Director) & Javi (Lead Developer)
 **Version:** 1.0 — Tuesday, Week 7
 
