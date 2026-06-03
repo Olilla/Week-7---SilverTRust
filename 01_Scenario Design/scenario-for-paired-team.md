@@ -8,7 +8,7 @@
 
 ## Fictional client organisation
 
-**Name:** SilverTrust Talent
+**Name:** Corepeople Talent
 **Size:** ~60 employees, founded 2019
 **What it does:** A recruiting agency that operates a dual model — outbound recruiting (approaching candidates) and inbound HR management (reviewing applications). Job openings from clients are published both on the company website (for organic Google search ranking) and syndicated to LinkedIn, Indeed, and other major job engines. The platform positions itself as making job search feel as simple as ordering an Uber and as personalised as Netflix recommendations.
 **Location:** Berlin, Germany
