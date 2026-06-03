@@ -21,11 +21,12 @@
 | 5b | Data map | [04-compliance/data-map.md](04-compliance/data-map.md) |
 | 6a | LangSmith monitoring setup | [05-langsmith-monitoring/monitoring-setup.md](05-langsmith-monitoring/monitoring-setup.md) |
 | 6b | Client explainer | [05-langsmith-monitoring/client-explainer.md](05-langsmith-monitoring/client-explainer.md) |
-| 7a | Tuesday pitch deck | [06-peer-review/tuesday-pitch-outline.md](06-peer-review/tuesday-pitch-outline.md) |
-| 7b | Peer approval record | [06-peer-review/peer-approval-record.md](06-peer-review/peer-approval-record.md) |
+| 7a | Tuesday pitch outline | [06-peer-review/tuesday-pitch-outline.md](06-peer-review/tuesday-pitch-outline.md) |
+| 7b | Tuesday pitch deck (PDF) | [06-peer-review/AI_Proposal_Presentation_v5.pdf](06-peer-review/AI_Proposal_Presentation_v5.pdf) |
+| 7c | Peer approval record | [06-peer-review/peer-approval-record.md](06-peer-review/peer-approval-record.md) |
 | 8a | Revised solution | [07-revised-proposal/revised-solution.md](07-revised-proposal/revised-solution.md) |
 | 8b | Change log | [07-revised-proposal/change-log.md](07-revised-proposal/change-log.md) |
-| 8c | Final pitch deck | [07-revised-proposal/final-pitch-outline.md](07-revised-proposal/final-pitch-outline.md) |
+| 8c | Final pitch outline | [07-revised-proposal/final-pitch-outline.md](07-revised-proposal/final-pitch-outline.md) |
 
 ---
 
