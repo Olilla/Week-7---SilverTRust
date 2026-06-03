@@ -1,6 +1,6 @@
 # Scenario Design — For Paired Team
 
-**Designed by:** [Your team name]
+**Designed by:** SilverTrust
 **Industry assigned to paired team:** Recruiting / HR Tech
 **Date:** Monday, Week 7
 
